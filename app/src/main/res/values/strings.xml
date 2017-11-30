@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Video Explorer</string>
+    <string-array name="video_tags">
+        <item>small</item>
+        <item>bird</item>
+        <item>cbw3</item>
+        <item>drop</item>
+        <item>flame</item>
+
+    </string-array>
+    <string-array name="video_ids">
+        <item>small</item>
+        <item>bird</item>
+        <item>cbw3</item>
+        <item>drop</item>
+        <item>flame</item>
+
+    </string-array>
+    <string-array name="img_tags">
+        <item>boat</item>
+        <item>cat</item>
+        <item>fruits</item>
+        <item>frymire</item>
+    </string-array>
+    <string-array name="img_ids">
+        <item>boat</item>
+        <item>cat</item>
+        <item>fruits</item>
+        <item>frymire</item>
+    </string-array>
+</resources>
